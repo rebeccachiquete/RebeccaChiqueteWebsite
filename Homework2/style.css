@@ -1,0 +1,81 @@
+.mee {
+    max-width: 100%;
+    height: auto;
+}
+
+.head {
+    color: whitesmoke
+    text-align: center;
+    width: 100%;
+    
+}
+
+.aboutmoi {
+    background-image: url("color.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    text-align: center;
+    color: whitesmoke
+}
+
+.port {
+    background-image: url("color.JPG");
+    background-repeat: no-repeat;
+    color:whitesmoke;
+    background-size: auto;
+    background-position: center;
+    text-align: center;
+ 
+}
+
+.col-6 {
+    color: black;
+    text-align: center
+    border: black;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url("color.JPG")!important;
+    color: white;
+    text-align: center;
+ }
+
+ .fa-facebook {
+    color: white;
+ }
+
+ .fa-linkedin {
+    color: white;
+  }
+
+  .fa-instagram {
+    color: white;
+  }
+  
+  .portimage {
+      max-width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .twoportimage {
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+  }
+
+  .photome {
+    max-width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
